@@ -1,8 +1,4 @@
-package Service;
-
-import domain.Doctor;
-import domain.Medicines;
-import domain.Patient;
+package domain;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,10 +1,9 @@
-import Service.DoctorAppointment;
+import domain.DoctorAppointment;
 import domain.Doctor;
 import domain.Medicines;
 import domain.Patient;
 import domain.Speciality;
 
-import java.util.Arrays;
 import java.util.List;
 import java.util.UUID;
 
